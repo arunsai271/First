@@ -12,8 +12,8 @@ public class Practise {
 	public static void main(String[] args) {
 
 	System.out.println(nearHundred(18));
+	System.out.println("new line");
 			}
-	
 	
 	public static boolean nearHundred(int n) {
 		  return ((Math.abs(100 - n) <= 10) ||
